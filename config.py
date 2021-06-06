@@ -1,0 +1,12 @@
+customer=''
+parkname=''
+selloc=''
+bname=''
+seattype=''
+quan=-1
+pts=0
+subtotal=0
+tax=0
+gtotal=0
+time=''
+use=0
